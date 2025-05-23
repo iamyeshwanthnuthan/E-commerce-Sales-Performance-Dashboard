@@ -14,7 +14,7 @@ KPIs like Total Sales, Orders, and Profit
 Category-wise and region-wise analysis
 
 
-#🧰 Tools Used:
+# 🧰 Tools Used:
 
 Power BI
 
@@ -23,7 +23,7 @@ DAX (basic level)
 Visual elements (Bar chart, Pie chart, Line graph, Cards)
 
 
-#📝 How to Use:
+# 📝 How to Use:
 
 Download this repository
 
@@ -34,3 +34,11 @@ Explore the dashboard using slicers and visuals
 
 # 🎯 Purpose:
 This dashboard was created to practice Power BI skills and demonstrate how to turn raw e-commerce data into actionable insights.
+
+This dashboard was created to:
+
+Practice Power BI and basic DAX skills
+
+Learn how to design interactive business dashboards
+
+Help businesses understand sales data in a visual and meaningful way
